@@ -1,16 +1,72 @@
-# React + Vite
+# 🌦️ WEATHER WAVE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WEATHER WAVE is a modern weather application built with **React** and **Vite** that allows users to check real-time weather conditions for any city. The app includes **dark mode** for improved usability and a clean, modern user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+- 🌍 Search weather by city name  
+- 🌡️ View temperature in **Celsius and Fahrenheit**  
+- 🌙 **Dark mode & Light mode** support  
+- 🔍 Simple and responsive user interface  
+- ⚡ Fast performance powered by Vite  
+- 🔐 API key protected using environment variables
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Hooks & Functional Components)
+- **Vite**
+- **Tailwind CSS**
+- **Weather API**
+- **Font Awesome Icons**
+
+---
+
+## 📁 Getting Started
+
+1. Clone the repository  
+2. Install project dependencies  
+3. Create a `.env` file and add your weather API key  
+4. Start the development server  
+
+> Environment variables are used to keep API keys secure.
+
+---
+
+## 🌙 Dark Mode
+
+WEATHER WAVE supports dark mode to enhance user experience by:
+- Reducing eye strain
+- Improving readability at night
+- Providing a modern UI using Tailwind CSS dark utilities
+
+---
+
+## 📌 Planned Features
+
+- 📍 Automatic location-based weather  
+- ⏱️ Hourly and weekly forecasts  
+- 🎨 Enhanced weather animations  
+- ⭐ Save favorite locations  
+
+---
+
+## 👨‍💻 Author
+
+**Chukwudubem Odukwe**
+* GitHub: [kingsley-001-pixel](https://github.com/kingsley-001-pixel)
+* Email: nexabuild555@gmail.com
+* Facebook: [Kingsley](https://www.facebook.com/profile.php?id=61562790652179)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+🌊 **WEATHER WAVE** — fast, clean, and reliable weather updates.
